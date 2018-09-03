@@ -69,6 +69,7 @@ body {
   height: 2.5em;
   outline: none;
   width: 12em;
+  cursor: pointer;
 }
 
 .space:hover {
@@ -192,6 +193,7 @@ body {
 .dot {
   color: grey;
   opacity: 0.4;
+  cursor: pointer;
 }
 
 .dot:hover {
@@ -215,6 +217,7 @@ body {
   opacity: 0.8;
   outline: none;
   padding: .1em;
+  cursor: pointer;
 }
 
 .arrow:hover {
@@ -274,7 +277,7 @@ body {
 }
 
 @media screen and (max-width: 1400px) {
-  
+
   .box9 {
     background-image: url(images/burger-cat.jpg);
     background-position: inherit;

@@ -51,7 +51,8 @@ body {
 }
 
 .about {
-  font-size: 1.5em;
+  font-size: 1.4em;
+  font-weight: 300;
 }
 
 /*header box buttons*/
@@ -66,8 +67,8 @@ body {
   border: none;
   color: #FFFFFF;
   font-size: .9em;
-  height: 2.5em;
-  outline: none;
+  height: 3em;
+  border: 2px solid white;
   width: 12em;
   cursor: pointer;
 }
@@ -95,7 +96,10 @@ body {
 .box-text {
   font-size: 1.4em;
   max-height: 34px;
+  line-height: 2em;
 }
+
+
 
 /*individual boxes*/
 
@@ -251,8 +255,8 @@ body {
   .header-buttons-section {
     align-items: center;
     justify-content: center;
-    padding-top: 0;
     margin: 1em;
+    padding: 0 0 .5em .9em;
   }
 
   .name {
@@ -274,6 +278,13 @@ body {
     right: 14px;
     top: 110.5em
    }
+}
+
+@media screen and (max-width: 992px) {
+
+  .header-buttons-section {
+    padding-right: .9em;
+  }
 }
 
 @media screen and (max-width: 1400px) {

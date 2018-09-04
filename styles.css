@@ -305,7 +305,7 @@ body {
 @media screen and (min-width: 1500px) {
 
   .name {
-    font-size: 4em;
+    font-size: 3.6em;
   }
 
   .about {
@@ -320,7 +320,7 @@ body {
   }
 
   .space {
-    font-size: 1.5em;
+    font-size: 1.1em;
     height: 1em;
     margin: 0 .7em 1em 0;
     width: 10em;

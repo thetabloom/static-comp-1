@@ -309,7 +309,7 @@ body {
   }
 
   .about {
-    font-size: 2.5em;
+    font-size: 2em;
     width: 15em;
   }
 
@@ -320,8 +320,8 @@ body {
   }
 
   .space {
-    font-size: 2em;
-    height: 2em;
+    font-size: 1.5em;
+    height: 1em;
     margin: 0 .7em 1em 0;
     width: 10em;
     padding-bottom: 2em;

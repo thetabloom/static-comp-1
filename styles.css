@@ -75,8 +75,8 @@ body {
   width: 12em;
 }
 
-.button-icon {
-  margin-right: .5em;
+.fa-space-shuttle {
+  margin-right: 1em;
 }
 
 .space:hover {
@@ -324,6 +324,7 @@ body {
     height: 2em;
     margin: 0 .7em 1em 0;
     width: 10em;
+    padding-bottom: 2em;
   }
 
   .boxicon {

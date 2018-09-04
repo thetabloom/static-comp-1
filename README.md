@@ -12,7 +12,7 @@ https://thetabloom.github.io/static-comp-1/
 
 ## My Version
 
-<img width="1440" alt="screen shot 2018-09-03 at 5 46 09 pm" src="https://user-images.githubusercontent.com/25753508/45003593-58d8d180-afa1-11e8-91f1-75d1123e3ea3.png">
+<img width="1440" alt="screen shot 2018-09-03 at 6 14 53 pm" src="https://user-images.githubusercontent.com/25753508/45003985-609a7500-afa5-11e8-8e0c-23d25b4883e7.png">
 
 
 ### First Responsive Static Comp with grid, flex box and media queries and a few added suprises! Enjoy!

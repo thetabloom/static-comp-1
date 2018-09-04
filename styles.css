@@ -19,6 +19,7 @@ body {
     "box3 box4 box5 box9 box9"
     "box6 box7 box8 box9 box9";
   grid-template-columns: repeat(5, 1fr);
+  letter-spacing: .1em;
 }
 
 .box {
@@ -38,7 +39,7 @@ body {
   grid-area: box1;
   justify-content: center;
   justify-content: space-around;
-  padding-left: 1em;
+  padding-left: 2em;
 }
 
 .header-text {
@@ -47,11 +48,11 @@ body {
 
 .name {
   font-size: 2em;
-  padding-top: .5em;
+  padding-top: .6em;
 }
 
 .about {
-  font-size: 1.4em;
+  font-size: 1.2em;
   font-weight: 300;
 }
 
@@ -59,18 +60,23 @@ body {
 
 .header-buttons-section {
   display: flex;
-  padding-top: 1em;
+  padding-top: .2em;
 }
 
 .space {
   background-color: #455f65;
-  border: none;
-  color: #FFFFFF;
-  font-size: .9em;
-  height: 3em;
   border: 2px solid white;
-  width: 12em;
+  color: #FFFFFF;
   cursor: pointer;
+  font-size: .9em;
+  height: 3.5em;
+  letter-spacing: .9px;
+  padding: 1em;
+  width: 12em;
+}
+
+.fa-space-shuttle {
+  margin-right: .5em;
 }
 
 .space:hover {

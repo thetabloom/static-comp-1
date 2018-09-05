@@ -105,8 +105,6 @@ body {
   line-height: 2em;
 }
 
-
-
 /*individual boxes*/
 
 .box2 {
@@ -128,7 +126,7 @@ body {
 }
 
 .box4 {
-  background-color: #b2c656;
+  background-color: #308e4e;
   grid-area: box4;
 }
 
